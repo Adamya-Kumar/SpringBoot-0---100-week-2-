@@ -1,8 +1,4 @@
-Here you go — full polished README in final form. Just copy-paste into `README.md`:
 
----
-
-````md
 # 🚀 Spring Boot Backend Development – Learning Journey
 
 This repository contains my hands-on work, mini-projects, experiments, and assignments from the **Spring Boot 0–100 Course (Anuj Bhaiya)**.
